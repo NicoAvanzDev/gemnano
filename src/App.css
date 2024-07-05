@@ -60,6 +60,10 @@
   padding: 10px 40px;
 }
 
+.error {
+  color: red;
+}
+
 .prompt-container {
   display: flex;
   justify-content: center;
